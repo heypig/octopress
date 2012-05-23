@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/ss/"
-http_images_path = "/ss/images"
-http_fonts_path = "/ss/fonts"
-css_dir = "public/ss/stylesheets"
+http_path = "/octopress/"
+http_images_path = "/octopress/images"
+http_fonts_path = "/octopress/fonts"
+css_dir = "public/octopress/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
