@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://heypig.github.com/octopress/blog/2012/05/23/heyop/</loc>
+        <lastmod>2012-05-23T21:02:11+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://heypig.github.com/octopress/blog/2012/05/23/ttt/</loc>
+        <lastmod>2012-05-23T22:32:56+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://heypig.github.com/octopress/blog/archives/</loc>
+        <lastmod>2012-05-23T22:32:56+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://heypig.github.com/octopress/</loc>
+        <lastmod>2012-05-23T22:32:56+08:00</lastmod>
+    </url>
+</urlset>
